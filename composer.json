@@ -3,7 +3,7 @@
     "description": "composer pacakge 开发学习",
     "type": "library",
     "require": {
-        "php": "^5.4",
+        "php": "^5.4"
     },
     "license": "MIT",
     "authors": [
